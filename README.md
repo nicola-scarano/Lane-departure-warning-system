@@ -7,6 +7,9 @@ the center of the lane. The algorithm has been developed in MATLAB language with
 addition of Simulink model several experiments have been conducted.
 
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/58294122/204318295-96721e6b-1c37-4d67-aaaa-956ad907d96c.gif" align="left" width=60%>
+  <img align="center" src="https://user-images.githubusercontent.com/58294122/204322543-33df75f1-d6c6-47a3-a14a-832220167b53.PNG" align="left" width=60%>
 </p>
 
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/58294122/204318295-96721e6b-1c37-4d67-aaaa-956ad907d96c.gif" align="left" width=60%>
+</p>
